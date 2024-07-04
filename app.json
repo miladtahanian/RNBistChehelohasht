@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "2048",
-    "slug": "2048",
+    "slug": "bistchehelohasht",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/2048logo.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/2048logo.png",
         "backgroundColor": "#57407c"
       },
-       "package": "ir.tahanian.bistchehelohast"
+      "package": "ir.tahanian.bistchehelohast"
     },
     "web": {
       "bundler": "metro",
@@ -38,8 +38,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "40630c43-aad1-48a8-95e9-297ddd9f0a23"
+        "projectId": "f21e294c-2db0-4ddb-b968-e81224f2ca12"
       }
-    }
+    },
+    "owner": "miladtahanian"
   }
 }
